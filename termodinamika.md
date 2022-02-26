@@ -1,9 +1,9 @@
 **Numri i moleve ne lende:** $n = {N \over N_{A}} = {m \over M}$ ku:
 
-N - Numri I Molekulave\
+$N$ - Numri I Molekulave\
 $N_{A}$ - Nr. I Avogadros (Nr. I Molekulave ne nje mol) $6.02 * 10^{23}$\
-m - Masa E Lendes\
-M - Masa Molare e Lendes
+$m$ - Masa E Lendes\
+$M$ - Masa Molare e Lendes
 
 **Temperature Vs Energji Termike Vs Nxehtesi**
 

@@ -1,4 +1,4 @@
-**Ligji i kulonit** $F = k * {{q_1 * q_2} \over r^2}$
+**Ligji i kulonit** $F = k * { {q_1 * q_2} \over r^2}$
 
 **Fusha Elektrike**  $\overrightarrow{E} = {\overrightarrow{F} \over q}$
 
